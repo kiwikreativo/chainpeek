@@ -9,15 +9,15 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/netlify": "^6.6.4",
-    "@astrojs/react": "^4.4.2",
+    "@astrojs/netlify": "^8.2.6",
+    "@astrojs/react": "^7.0.0",
     "@lucide/astro": "^0.575.0",
     "@metamask/sdk": "^0.34.0",
     "@tailwindcss/vite": "^4.1.18",
     "@tanstack/react-query": "^5.90.21",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
-    "astro": "^5.17.1",
+    "astro": "^7.3.5",
     "ethers": "^6.16.0",
     "lucide-react": "^0.575.0",
     "react": "^19.2.4",
